@@ -39,4 +39,9 @@ Using the chromatic dispersion factor equation, determine the dispersion of the 
 Using the equations above, determine the dispersion-limited fiber length. 
 <img width="1262" height="1044" alt="image" src="https://github.com/user-attachments/assets/e0b20ca6-42b4-4f1b-ac9a-e4f931a85001" />
 # Tabulation
+<img width="1913" height="1078" alt="592370338-f4acba5f-4bef-4d59-b014-50ca931d038c" src="https://github.com/user-attachments/assets/9afd3138-f741-4081-8f3a-d7df941b0df6" />
+
 # Result
+<img width="899" height="1599" alt="2e7f4933-2465-45e2-80d3-80f9c08daa7b" src="https://github.com/user-attachments/assets/7e7fc805-cf4e-4d27-a9be-d5ff1be765bc" />
+<img width="899" height="1599" alt="63bea009-e33b-4492-8137-c9d3e542ca19" src="https://github.com/user-attachments/assets/fbcb914f-c91c-411d-95d3-9354939ecedb" />
+
